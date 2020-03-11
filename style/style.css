@@ -1,0 +1,23 @@
+body {
+    color:blue;
+}
+
+#nav-bar {
+    color:orange;
+}
+
+.green {
+    color: green;
+}
+
+.account-image {
+    max-width: 10px;
+    height: 24px;
+    size:auto;
+    box-shadow: 5px white;
+}
+
+.form-produit {
+    width:80%;
+    margin-left:10%;
+}
